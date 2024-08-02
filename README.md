@@ -16,12 +16,14 @@
 | ------- |
 | [0015-3sum](https://github.com/Selam25-30/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selam25-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Selam25-30/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Selam25-30/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selam25-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Selam25-30/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selam25-30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
