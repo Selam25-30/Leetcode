@@ -41,9 +41,18 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
