@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selam25-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Selam25-30/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Selam25-30/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +58,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
