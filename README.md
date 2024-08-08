@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
