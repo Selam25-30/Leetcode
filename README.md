@@ -20,6 +20,7 @@
 | [0027-remove-element](https://github.com/Selam25-30/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
@@ -83,5 +84,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
