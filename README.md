@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Selam25-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selam25-30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Selam25-30/Leetcode/tree/master/0058-length-of-last-word) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
