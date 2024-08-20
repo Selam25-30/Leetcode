@@ -22,6 +22,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Selam25-30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Selam25-30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
