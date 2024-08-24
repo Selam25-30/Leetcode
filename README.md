@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Selam25-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selam25-30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length--of-last-word](https://github.com/Selam25-30/Leetcode/tree/master/0058-length-of-last-word) |
+| [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Stack
@@ -22,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Selam25-30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
@@ -48,6 +50,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Linked List
 |  |
