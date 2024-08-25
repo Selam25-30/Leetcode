@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Selam25-30/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Selam25-30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Selam25-30/Leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
