@@ -24,6 +24,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Selam25-30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/Selam25-30/Leetcode/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Selam25-30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
