@@ -24,6 +24,7 @@
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Selam25-30/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Selam25-30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Selam25-30/Leetcode/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Selam25-30/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Selam25-30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
