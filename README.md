@@ -33,6 +33,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Selam25-30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
+| [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -122,5 +123,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
