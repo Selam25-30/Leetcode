@@ -33,6 +33,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Selam25-30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
+| [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Linked List
 |  |
@@ -77,6 +79,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
+| [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Selam25-30/Leetcode/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Dynamic Programming
 |  |
