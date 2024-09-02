@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Selam25-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selam25-30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length--of-last-word](https://github.com/Selam25-30/Leetcode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Selam25-30/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0141-linked-list-cycle](https://github.com/Selam25-30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -132,4 +135,8 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
