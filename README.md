@@ -29,6 +29,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Selam25-30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Selam25-30/Leetcode/tree/master/0228-summary-ranges) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Selam25-30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/Selam25-30/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Selam25-30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Selam25-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Selam25-30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Selam25-30/Leetcode/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
