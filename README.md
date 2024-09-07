@@ -40,6 +40,7 @@
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Selam25-30/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
@@ -156,4 +159,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Selam25-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
+## Matrix
+|  |
+| ------- |
+| [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 <!---LeetCode Topics End-->
