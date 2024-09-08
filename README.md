@@ -38,6 +38,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Selam25-30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
+| [1306-minimum-absolute-difference](https://github.com/Selam25-30/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -60,6 +61,7 @@
 | [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Selam25-30/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Selam25-30/Leetcode/tree/master/0645-set-mismatch) |
+| [1306-minimum-absolute-difference](https://github.com/Selam25-30/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## String Matching
 |  |
 | ------- |
