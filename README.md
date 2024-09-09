@@ -41,6 +41,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Selam25-30/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Selam25-30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Selam25-30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -97,6 +98,7 @@
 | [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Selam25-30/Leetcode/tree/master/2383-add-two-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Selam25-30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
