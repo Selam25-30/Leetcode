@@ -110,6 +110,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selam25-30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Selam25-30/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Selam25-30/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Selam25-30/Leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Selam25-30/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Selam25-30/Leetcode/tree/master/0645-set-mismatch) |
 ## Depth-First Search
