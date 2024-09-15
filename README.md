@@ -40,6 +40,7 @@
 | [0697-degree-of-an-array](https://github.com/Selam25-30/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Selam25-30/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1306-minimum-absolute-difference](https://github.com/Selam25-30/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Selam25-30/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -65,6 +66,7 @@
 | [0455-assign-cookies](https://github.com/Selam25-30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Selam25-30/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Selam25-30/Leetcode/tree/master/0645-set-mismatch) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Selam25-30/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1306-minimum-absolute-difference](https://github.com/Selam25-30/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## String Matching
 |  |
@@ -100,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Selam25-30/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Selam25-30/Leetcode/tree/master/0070-climbing-stairs) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Selam25-30/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1635-number-of-good-pairs](https://github.com/Selam25-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Selam25-30/Leetcode/tree/master/2383-add-two-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Selam25-30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -176,9 +179,14 @@
 ## Matrix
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Selam25-30/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3516-design-neighbor-sum-service](https://github.com/Selam25-30/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Selam25-30/Leetcode/tree/master/0506-relative-ranks) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Selam25-30/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
