@@ -39,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/Selam25-30/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Selam25-30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Selam25-30/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Selam25-30/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/Selam25-30/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/Selam25-30/Leetcode/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Selam25-30/Leetcode/tree/master/0890-lemonade-change) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Selam25-30/Leetcode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Selam25-30/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
